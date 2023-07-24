@@ -1,0 +1,8 @@
+{
+  "displayedName": "ExtraHotkeys",
+  "prefix": "extrahotkeys",
+  "description": "Additional keyboard hotkeys",
+  "versionsSupported": [ "1.0" ],
+  "modVersion": "0.3",
+  "modCredit": "Madeline Prelee"
+}
